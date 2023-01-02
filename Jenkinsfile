@@ -5,7 +5,7 @@ node(){
  
 
    
-    def sonarScanner = tool name: 'SonnarQube', type: 'hudson.plugins.sonar.SonarRunnerInstallation'
+    def sonarScanner = tool name: 'SonarQube', type: 'hudson.plugins.sonar.SonarRunnerInstallation'
 
  
 
